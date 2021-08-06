@@ -1,0 +1,92 @@
+[[Prjtrellis]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2490d10fc74aaf8693d0b66f9ea48d401b03627"
+libc = "glibc"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "41190cdd5b9dbb1195c6e4ae0aa144fe7a9a6f522dded9eefbeb771be8a49c97"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1f7b9e58386a2d9b8206b2f0de0570507743bc3"
+libc = "musl"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "b43f570073a8a59a01aeced1c20d3bf36f7bfdab761ab3e2cac8aa55f7d1ee34"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb5fdb45cf07aef1dd172930a1b702263f6020b7"
+libc = "glibc"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "e51d3e0db4360f2600a7cca6f9ae0b0008ec954e1800fd74506b1ec978702ac1"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c754b05375d57a198a1c9e5b133449960a652bc"
+libc = "musl"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "607aaaaac6ea972272c30cf478b14e61fbef985cd911ccfda1c2bfcae04a2896"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "537a32dd2da21a1d87cfe926b39690d6935bbab4"
+libc = "glibc"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "aa230f0823c07326baff53c009eeecd0196eb60c344467917fa526de71469fbb"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07dfe7970736ea12ba6f910f418c9ff07346ad7a"
+libc = "musl"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "cfda6eccfa3764ed0030eddee3838a629a508cf81071af0592dd13956f18b031"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e3904a490e95a80b8fe139b102146d16144a5825"
+libc = "glibc"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "fc015a0cd7fcb2b1b48679026f5e3f4fa2d619d7c475055341e7309ed4814b85"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ca6b201bc8074d52541d9fdd4c525949947c9e6"
+libc = "glibc"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "b28f4ca9eda9e9b62929f2979fb9df3ab46b6bd2ad308d7241be007513f35cfe"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Prjtrellis]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ed8d31fb5a21ff82633a3ffabe1612f92bd6043"
+libc = "musl"
+os = "linux"
+
+    [[Prjtrellis.download]]
+    sha256 = "80162a6179268482a394c1e4f637b0982971e929c18088df2d45064ef94ce39f"
+    url = "https://github.com/JuliaBinaryWrappers/Prjtrellis_jll.jl/releases/download/Prjtrellis-v0.1.0+0/Prjtrellis.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
